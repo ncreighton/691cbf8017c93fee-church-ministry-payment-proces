@@ -1,0 +1,2 @@
+# 691cbf8017c93fee-church-ministry-payment-proces
+You shouldn't need alt-tabbing out of your code 40 times a day to stay in flow state and ship faster.  Integrates seamlessly into your VS Code workflow — keyboard shortcuts included. Status bar integration gives you real-time feedback without opening panels.  ## What's Included  - Church Ministry Payment Processing Integration — fully configured an
